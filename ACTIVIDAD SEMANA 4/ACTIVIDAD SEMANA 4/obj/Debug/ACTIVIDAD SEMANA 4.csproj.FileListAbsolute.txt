@@ -1,0 +1,15 @@
+C:\Users\arman\source\repos\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\bin\Debug\ACTIVIDAD SEMANA 4.exe.config
+C:\Users\arman\source\repos\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\bin\Debug\ACTIVIDAD SEMANA 4.exe
+C:\Users\arman\source\repos\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\bin\Debug\ACTIVIDAD SEMANA 4.pdb
+C:\Users\arman\source\repos\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\obj\Debug\ACTIVIDAD SEMANA 4.csproj.AssemblyReference.cache
+C:\Users\arman\source\repos\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\obj\Debug\ACTIVIDAD SEMANA 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\arman\source\repos\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\obj\Debug\ACTIVIDAD SEMANA 4.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\obj\Debug\ACTIVIDAD SEMANA 4.exe
+C:\Users\arman\source\repos\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\obj\Debug\ACTIVIDAD SEMANA 4.pdb
+C:\Users\Wilfredo Morales\Desktop\PrograIII\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\obj\Debug\ACTIVIDAD SEMANA 4.csproj.AssemblyReference.cache
+C:\Users\Wilfredo Morales\Desktop\PrograIII\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\obj\Debug\ACTIVIDAD SEMANA 4.csproj.CoreCompileInputs.cache
+C:\Users\Wilfredo Morales\Desktop\PrograIII\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\obj\Debug\ACTIVIDAD SEMANA 4.exe
+C:\Users\Wilfredo Morales\Desktop\PrograIII\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\obj\Debug\ACTIVIDAD SEMANA 4.pdb
+C:\Users\Wilfredo Morales\Desktop\PrograIII\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\bin\Debug\ACTIVIDAD SEMANA 4.exe.config
+C:\Users\Wilfredo Morales\Desktop\PrograIII\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\bin\Debug\ACTIVIDAD SEMANA 4.exe
+C:\Users\Wilfredo Morales\Desktop\PrograIII\ACTIVIDAD SEMANA 4\ACTIVIDAD SEMANA 4\bin\Debug\ACTIVIDAD SEMANA 4.pdb
